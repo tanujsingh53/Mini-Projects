@@ -7,7 +7,7 @@ This mini-project helps you stay hydrated by sending regular desktop notificatio
 
 ✨ Features
 
-Custom reminder interval (in minutes)
+Custom reminder interval (in seconds* minutes)
 
 Desktop notifications using plyer
 
