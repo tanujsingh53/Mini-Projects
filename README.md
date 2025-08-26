@@ -1,4 +1,4 @@
-🧑‍💻 Python Mini Projects
+`**🧑‍💻 Python Mini Projects**`
 
 This repository contains a collection of beginner-friendly Python mini projects that I created while learning Python.
 Each project is small, but it covers important concepts such as loops, conditionals, functions, error handling, and user input.
