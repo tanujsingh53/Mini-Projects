@@ -1,0 +1,62 @@
+# 🧮 Simple Python Calculator
+
+A simple command-line calculator built with Python.  
+It supports **addition, subtraction, multiplication, division, percentage**, and also has an option to quit.
+
+---
+
+## 🚀 Features
+- ➕ Addition
+- ➖ Subtraction
+-  ✖ Multiplication
+- ➗ Division
+- 📊 Percentage calculation (`a` is percentage of `b`)
+- ❌ Quit anytime (either before entering numbers or during operations)
+
+---
+
+## ⚙️ Requirements
+- Python 3.10 or higher (because we used `match-case`)
+
+---
+
+## 📥 Installation
+1. Clone this repository (or download the code):
+   ```bash
+   git clone https://github.com/your-username/python-calculator.git
+
+
+cd python-calculator
+
+
+▶️ How to Run
+
+Run the program using:
+
+python calculator.py
+
+💡 Usage Example
+Enter the first number (or q to quit): 20
+Enter the second number (or q to quit): 80
+
+What kind of operation you want to perform.
+Press + for addition
+Press - for subtraction
+Press / for division
+Press * for multiplication
+Press % for percentage (a out of b)
+Press q to quit
+
+Enter Operation : %
+20 is 25.00% of 80
+
+📌 Notes
+
+If invalid input is entered (like text instead of a number), the program will handle it gracefully.
+
+You can exit anytime by typing q.
+
+👨‍💻 Author
+
+Tanuj Singh
+📧 tjstanujsingh53@gmail.com
